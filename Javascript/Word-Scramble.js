@@ -13,7 +13,7 @@ Required HTML -
 </div>
 
 Required CSS - 
-/* Change Body to div */
+Change Body to div
 body {
   background-color: #2b2b2b;
 }
