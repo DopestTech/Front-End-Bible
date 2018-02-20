@@ -7,3 +7,6 @@ Inside each file, you will find a commented section. This will contain the relev
 
 ### Contribute
 Every contribution is gratefully recieved no matter how simple or complicated. If this is your first time contributing to a repository, then simply fork the repo and push your code with a relevant file name. If anything needs changing then I will change to suit.
+
+#### Contributors
+https://github.com/jeremybbauer
