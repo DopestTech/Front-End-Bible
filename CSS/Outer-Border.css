@@ -1,0 +1,40 @@
+/*
+
+Outer Border - A border running around the outside of the whole web page.
+
+*/
+
+/*
+
+Necessary HTML - Put this at top of page.
+
+<div id="left"></div>
+<div id="right"></div>
+<div id="top"></div>
+<div id="bottom"></div>
+
+*/
+
+
+#top, #bottom, #left, #right {
+	background: #00000;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 15px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+		
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 15px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
+    
+    /*
+    Please note: At its current setup, this is ideal for fixed page websites that don't need scrolling. Scrolling pages will
+    work better if you change the Z-Index of the divs on show.
+    */
