@@ -36,7 +36,7 @@ body {
 
 
 
-class TextScramble {
+class wordScramble {
   constructor(el) {
     this.el = el
     this.chars = '!@#$%^&*qwertyuiopsdfghjklxcvzbnm_QWERTYUIOPASDFGHJKLZXCVBNM';
@@ -98,7 +98,7 @@ const word = [
 ];
 
 const el = document.querySelector('.text')
-const fx = new TextScramble(el)
+const fx = new wordScramble(el)
 
 let counter = 0
 const next = () => {
