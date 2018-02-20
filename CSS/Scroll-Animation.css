@@ -1,0 +1,59 @@
+/*
+
+Scroll Animation - A small mouse symbol with a moving scroll button.
+
+*/
+
+/*
+
+Necessary HTML - 
+<div class="scroll">
+    <div class="mouse">
+      <div class="scroller"></div>
+    </div>
+  </div>
+  
+*/
+
+
+
+
+* {
+  background-color: #BAE7B1; 
+}
+
+.scroll {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+
+  width :34px;
+  height: 55px;
+}
+.mouse {
+  width: 3px;
+  padding: 10px 15px;
+  height: 30px;
+  border: 2px solid #333;
+  border-radius: 25px;
+  opacity: 0.75;
+  box-sizing: content-box;
+}
+.scroller {
+  width: 3px;
+  height: 3px;
+  border-radius: 25%;
+  background-color: #000;
+  animation-name: scroll;
+  animation-duration: 2s;
+  animation-timing-function: cubic-bezier(.15,.41,.69,.94);
+  animation-iteration-count: infinite;
+}
+@keyframes scroll {
+  0% { opacity: 0; }
+  10% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(15px); opacity: 0;}
+}
