@@ -1,0 +1,31 @@
+/*
+
+Make links display on a web page with a gradient underline. Also, make this underline gradient expand to cover the link text when you hover your cursor over the link. 
+
+*/
+
+
+
+a {
+  text-decoration: none;
+  color: #232323;
+  background-image: linear-gradient(120deg, #9599e2 0%, #8BC6EC 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 88%;
+  transition: background-size 0.25s ease-in;
+  &:hover {
+    background-size: 100% 88%;
+  }
+}
+a:hover {
+  text-decoration: none;
+  color: #000;
+  background-image: linear-gradient(120deg, #9599e2 0%, #8BC6EC 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 1.2em;
+  background-position: 0 88%;
+  transition: background-size 0.25s ease-in;
+  &:hover {
+    background-size: 100% 88%;
+}
