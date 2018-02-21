@@ -1,0 +1,13 @@
+/*
+
+Gradient Text - Creates a gradient of colours on any text using webkit.
+
+*/
+
+
+h1 {
+  font-size: 100px;
+  background: -webkit-linear-gradient(#fff, #000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
