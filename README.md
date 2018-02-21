@@ -11,5 +11,5 @@ Inside each file, you will find a commented section. This will contain the relev
 Every contribution is gratefully recieved no matter how simple or complicated. If this is your first time contributing to a repository, then simply fork the repo and push your commit with a relevant file name. If anything needs changing then I will change to suit. Dont feel embarassed or reluctant if you don't fully understand.. you cant break anything here! :)
 
 #### Current Contributors
-https://github.com/jabedford
-https://github.com/jeremybbauer
+* https://github.com/jabedford
+* https://github.com/jeremybbauer
