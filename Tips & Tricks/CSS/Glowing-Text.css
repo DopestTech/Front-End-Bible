@@ -1,0 +1,21 @@
+/*
+
+Glowing Text - Give your text a awesome neon glow effect.
+
+*/
+
+
+h1{
+  color:lightblue;
+  font-size:70px;
+  text-shadow: 
+    0 0 10px var(--color1),
+    0 0 20px var(--color2),
+    0 0 40px var(--color3),
+    0 0 80px var(--color4);
+  color: lightblue;
+  --color1: azure;
+  --color2: aqua;
+  --color3: dodgerblue;
+  --color4: blue;
+}
