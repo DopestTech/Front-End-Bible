@@ -90,7 +90,7 @@ show your face around the community. Although I am not saying the course cannot 
 you will stand a better chance if you give yourself time to complete the projects to the best of your ability. Consistency 
 is the key to this.
 
-* Make yourself known in the community and stay active and helpful. - The forum of tracksall of your
+* Make yourself known in the community and stay active and helpful. - The forum tracks all of your
 posts, post views, likes given and likes recieved. This can then be viewed at any time (by anyone) on your profile. 
 I didn't post half as much as some people, I think I finished the course with 200 forum posts, but from those 200 posts
 I recieved 989 likes. I kept my content on topic (most of the time) and constantly tried to be as helpful as I could. My
