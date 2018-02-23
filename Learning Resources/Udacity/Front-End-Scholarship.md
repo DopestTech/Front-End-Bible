@@ -85,10 +85,17 @@ definitely give you a view on how to better your chances and get through to the 
 seen some posts from people on previous years, and I think perhaps some people overthink it.. Here is my suggestions anyways
 and hopefully they will work for you!
 
+* Firstly, detatch yourself from other peoples progress. - I cannot stress this enough, as the amount of people I saw whose
+confidence was being stripped away from them because of the rates other people were progressing. We all find certain
+things hard and programming IS HARD. There are lots of different skill sets and all the participants are at different 
+stages of their web development journey. Some would have done some CSS/JavaScript before, and therefore plough through
+the material, whereas if you are coming across this for the first time, then take your time and really learn it before
+moving on. It isn't a race at the end of the day, and worrying about how other people are ahead of you will get you nowhere!
+
 * Start the course promptly and remain consistent. - I personally feel you have a better chance of success the more you 
 show your face around the community. Although I am not saying the course cannot be done in less than the three months given,
 you will stand a better chance if you give yourself time to complete the projects to the best of your ability. Consistency 
-is the key to this.
+is the key to this so get started within the first few days of the scholarship.
 
 * Make yourself known in the community and stay active and helpful. - The forum tracks all of your
 posts, post views, likes given and likes recieved. This can then be viewed at any time (by anyone) on your profile. 
