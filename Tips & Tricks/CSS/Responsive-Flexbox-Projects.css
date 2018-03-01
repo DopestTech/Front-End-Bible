@@ -1,0 +1,54 @@
+/*
+Make a responsive gallery of projects for your portfolio with flexbox. 
+Live view: https://codepen.io/ntjnh/full/gvZmGr
+*/
+
+/* makes sure each project's padding doesn't take up any extra space */
+* {
+  box-sizing: border-box;
+}
+
+/* Wrap all projects in a div and add these styles to it */
+.projects-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* wrap each project in its own div and add these styles */
+.project {
+  display: flex;  /* optional: makes sure all project divs will be the same height regardless of amount of content */
+  padding: 0.25em;
+  width: 100%;
+}
+
+/* put another div around each project's content and add these styles */
+.project-content {
+  display: flex;
+  flex-direction: column;
+  background-color: #eee;
+  padding: 1em;
+  width: 100%;
+}
+
+/* if you have a paragraph, this will make it stretch to fill any available space */
+.project-content p {
+  flex: 1 0 auto;
+}
+
+.project img {
+  width: 100%;
+}
+
+/* two projects per row on tablets */
+@media screen and (min-width: 40em) {
+  .project {
+    width: 50%;
+  }
+}
+
+/* three projects per row on large screens */
+@media screen and (min-width: 60em) {
+  .project {
+    width: 33.33%;
+  }
+}
