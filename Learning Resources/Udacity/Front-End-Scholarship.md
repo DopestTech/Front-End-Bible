@@ -82,8 +82,7 @@ EDIT - 7/03/2018
 I had to update this section of my review, as I have got further into the full Nanodegree. I am currently on the "Web Programming with JavaScript" part of the course. Personally I am finding the style of learning difficult and a slog. There is SO much text to consume, and personally I learn better from videos and a more visual style of teaching. From the "Git" section right the way through "performance" and possibly beyond is just heavy text and documentation. This makes up about 20+ hours of the course.
 I have noticed the teacher in this section is the same one I had trouble with in the three month scholarship material in the "JQuery" section of the course. His teaching methods aren't suited to myself it would seem and it has become hard work for me to get through the material. I am having to reread pages of information and am struggling!
 
-SECOND EDIT - 3/04/2018
-It seems that what I talked about above is very much the tone of the course here on in. A brief break for Web Accesability and we are unfortunately now back to the pages of pure text, with hardly any examples. What examples they do give, there is no solution. I was in particular having trouble with gaining access to an object nested inside of another object, and unfortunately I have had to move on with no solution.
+*I will add more of my thoughts here as I progress through the course*
 
 
 # How to Get Picked for the Second Stage!!
