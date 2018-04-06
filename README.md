@@ -1,7 +1,7 @@
 ![](http://i68.tinypic.com/2cohq90.jpg)
 
 # The Front End Bible
-The ultimate resource for Front-End developers new and old, this is a repository of tips and tricks with easy to follow guides to get them up and running on your website. We are also going to concentrate on uploading interview advice and a review section of online lessons and courses concerning Web Development.
+The ultimate resource for Front-End developers new and old, this is a repository of tips and tricks with easy to follow guides to get them up and running on your website. We are also going to concentrate on uploading interview advice and a review section of online lessons and courses concerning Front-End Web Development.
 
 **However**: This is also a community project aimed at getting those who are not familiar with the workings of Git and version control to practice in a friendly environment. Practice push/pull requests and build your GitHub profile, whilst contributing to an actual project.
 
