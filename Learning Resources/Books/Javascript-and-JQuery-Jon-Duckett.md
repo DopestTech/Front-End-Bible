@@ -1,7 +1,7 @@
 # JavaScript and JQuery
 ## By Jon Duckett
 
-![image of book](https://scontent-lht6-1.cdninstagram.com/vp/66a60e7bd09e118382080b0860d3ceec/5B6127FD/t51.2885-15/e35/29738862_192498858032424_4380877379338240000_n.jpg)
+![image of book](https://images-na.ssl-images-amazon.com/images/I/41Z6LTD8QmL.jpg)
 
 #### Look anywhere on Social Media and this book will be there! With so many apparent owners, is it the holy trinity of JavaScript and JQuery learning? Or is it just a pretty cover with no substance?
 
