@@ -1,7 +1,7 @@
 # JavaScript and JQuery
 ## By Jon Duckett
 
-##### Look anywhere on Social Media and this book will be there! With so many apparent owners, is it the holy trinity of JavaScript and JQuery learning? Or is it just a pretty cover with no substance?
+#### Look anywhere on Social Media and this book will be there! With so many apparent owners, is it the holy trinity of JavaScript and JQuery learning? Or is it just a pretty cover with no substance?
 
 First things first, let me give you a bit of background information with my running in with this book. Starting my web development journey on Instagram, I was drawn to this book pretty much straight away. The muted colours on the front and the matt black finish make this one of the most beautiful books I own. It is so photogenic, and people realise it to! The cover is identical to its brother/sister "HTML and CSS". I cannot speak for that book, as I do not currently own it, but what I can say as a pair they are everywhere on Instagram. I have to admit, for looks alone I was sold. I punched my paypal details into Amazon, and it was sitting on my desk the next day.
 
@@ -19,7 +19,7 @@ For a book thats title is "Javascript and JQuery", the JQuery section an importa
 
 
 
-##### Overview
+#### Overview
 No doubt a fantastic resource for anyone looking at improving their JavaScript knowledge, or are looking to move to the next stage from the previous book. It is an expensive purchase, but you undeniably get a top quality product for your money.
 
 Is it all you need to learn how to use JavaScript effectively? I don't think so. Some might argue that this all comes down to your style of learning, however I find it impossible to learn all I need to through books alone. With the rise of tutorials, bootcamps and no end of lessons to teach programming online, that talk you through the process of a project that you might actually want to build (I'm looking at Colt Steele's Bootcamp, and also Wes Bos' #30daysofJavascript), this book can't equate to the effectiveness of this style of learning. I would like to see more tutorials to achieve actual results (like you find in SuperHi's fantastic "Learn to Code Now"), however this would take away from the referencing style nature of encyclopedia of JavaScript. That is a fair comparison actually.. this is an encyclopedia of web development goodness. 
