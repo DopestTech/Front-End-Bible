@@ -20,10 +20,11 @@ For a book thats title is "Javascript and JQuery", the JQuery section an importa
 
 
 #### Overview
-No doubt a fantastic resource for anyone looking at improving their JavaScript knowledge, or are looking to move to the next stage from the previous book. It is an expensive purchase, but you undeniably get a top quality product for your money.
+No doubt a fantastic resource for anyone looking at improving their JavaScript knowledge, or are looking to move to the next stage from the previous book. It is an expensive purchase (upon recent review it is £15 which actually isn't that much. I paid much more), but you undeniably get a top quality product for your money.
 
 Is it all you need to learn how to use JavaScript effectively? I don't think so. Some might argue that this all comes down to your style of learning, however I find it impossible to learn all I need to through books alone. With the rise of tutorials, bootcamps and no end of lessons to teach programming online, that talk you through the process of a project that you might actually want to build (I'm looking at Colt Steele's Bootcamp, and also Wes Bos' #30daysofJavascript), this book can't equate to the effectiveness of this style of learning. I would like to see more tutorials to achieve actual results (like you find in SuperHi's fantastic "Learn to Code Now"), however this would take away from the referencing style nature of encyclopedia of JavaScript. That is a fair comparison actually.. this is an encyclopedia of web development goodness. 
 
 Regardless though, is it a necessary purchase? I think so! I find myself reaching to it just as much as I see myself referencing Stack Overflow, and in that case it is invaluable. In some circumstances I find that referencing a book, where you are 100% sure the information is accurate, rather than relying on someones answer online is satisfying and reassuring. Plus it looks damn good on a coffee table, on your computer desk or posted on your latest story.
 
+Purchase here --> https://www.amazon.co.uk/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1?ie=UTF8&qid=1523257846&sr=8-1&keywords=javascript+and+jquery
 
