@@ -19,6 +19,8 @@ Personally, I don't necessarily agree with the direction the book takes in regar
 
 For a book thats title is "Javascript and JQuery", the JQuery section an important part of the package. Regardless or not of whether you see JQuery as a necessary framework, it is undeniably an important part of modern web development, and is a good first framework to learn and understand. I would have liked to have seen a more extensive section for this topic, with some more examples, however the chapter is perfectly amicable yet not spectacular in my opinion. 
 
+I think it is worth mentioning at this point, the book doesn't teach the changes introduced in ES6. Whilst this isnt necessarily a big downer on it itself, it is definitely something to be aware of, especially if you are using the book as well as somewhere like Stack Overflow to reference. Its a shame as their are some great new features, however hopefully we will see this is an update, or revised edition at some point in the future.
+
 
 
 #### Overview
