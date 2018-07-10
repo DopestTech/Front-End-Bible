@@ -17,9 +17,10 @@ Necessary HTML - Put this at top of page.
 
 
 #top, #bottom, #left, #right {
-	background: #00000;
+	background: #555;
 	position: fixed;
 	}
+
 	#left, #right {
 		top: 0; bottom: 0;
 		width: 15px;
