@@ -15,7 +15,7 @@ h1{
     0 0 80px var(--color4);
   color: lightblue;
   --color1: azure;
-  --color2: aqua;
+  --color2: yellow;
   --color3: dodgerblue;
-  --color4: blue;
+  --color4: brown;
 }
