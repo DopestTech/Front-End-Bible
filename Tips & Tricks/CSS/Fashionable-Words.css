@@ -1,0 +1,32 @@
+/*
+
+Use various font/text/word styles on select HTML elements to add variety and elegance to your webpage.
+Especially useful for headings and menu items.
+Webpages should be limited to 3-4 different font families.
+
+*/
+
+h1 {
+  word-spacing: 3px;
+  letter-spacing: 1.5px;
+  text-decoration: none;
+  color: DarkSlateGray;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 15 px;
+  text-align: center;
+}
+
+h2 {
+  word-spacing: 1.5px;
+  letter-spacing: 3px;
+  text-decoration: none;
+  color: lightgrey;
+  font-family: "Arial", Gadget, sans-serif;
+  font-weight: lighter;
+  text-transform: uppercase;
+  font-size: 15 px;
+  text-align: center;
+}
