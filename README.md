@@ -22,3 +22,5 @@ Every contribution is gratefully recieved no matter how simple or complicated. I
 * https://github.com/Arun4033622
 * https://github.com/ntjnh
 * https://github.com/ravikishorethella
+* https://github.com/TheJDexp
+* https://github.com/hafeezshaik0011
